@@ -1,0 +1,1 @@
+module.exports = "Yes it works and now I can dedicate myself to beautiful code."

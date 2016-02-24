@@ -1,0 +1,14 @@
+{
+  "name": "jsblog",
+  "version": "1.0.0",
+  "description": "Personal Project 1 for Web Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharon Rumsey",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
